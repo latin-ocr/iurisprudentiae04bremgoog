@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iurisprudentiae04bremgoog_0009.png"; bbox 0 0 2550 3888; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 466 1427 861 1500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 466 1427 861 1500">
+     <span class='ocr_line' id='line_1_1' title="bbox 466 1427 861 1500; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 466 1427 592 1500; x_wconf 83' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 624 1427 821 1500; x_wconf 82' lang='lat' dir='ltr'><strong>ALTERA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 858 1433 861 1441; x_wconf 89' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 77 1683 1202 2025">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 77 1683 1202 2030">
+     <span class='ocr_line' id='line_1_2' title="bbox 77 1683 1202 1820; baseline 0.002 -26"><span class='ocrx_word' id='word_1_4' title='bbox 77 1684 340 1794; x_wconf 74' lang='lat' dir='ltr'><strong>PRIMI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 378 1683 585 1820; x_wconf 69' lang='lat' dir='ltr'>POST</span> <span class='ocrx_word' id='word_1_6' title='bbox 625 1683 1202 1796; x_wconf 68' lang='lat' dir='ltr'><strong>PRINCIPATUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 285 1881 920 2025; baseline -0.022 -20"><span class='ocrx_word' id='word_1_7' title='bbox 285 2001 287 2006; x_wconf 76' lang='grc'>,</span> <span class='ocrx_word' id='word_1_8' title='bbox 370 1881 920 2025; x_wconf 70' lang='lat' dir='ltr'>CONSTITUTUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 2037 1148 2218">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 2037 1148 2218">
+     <span class='ocr_line' id='line_1_4' title="bbox 144 2037 1148 2218; baseline 0.001 -26"><span class='ocrx_word' id='word_1_9' title='bbox 144 2037 474 2192; x_wconf 73' lang='lat' dir='ltr'><strong>SAEOULI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 513 2080 723 2192; x_wconf 72' lang='lat' dir='ltr'><strong>IURIS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 765 2071 1148 2218; x_wconf 71' lang='lat' dir='ltr'>CONSULTI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 467 2421 796 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 467 2421 796 2489">
+     <span class='ocr_line' id='line_1_5' title="bbox 467 2421 796 2489; baseline 0.006 -3"><span class='ocrx_word' id='word_1_12' title='bbox 467 2421 628 2488; x_wconf 78' lang='lat' dir='ltr'>SEOTIO</span> <span class='ocrx_word' id='word_1_13' title='bbox 652 2422 796 2489; x_wconf 89' lang='lat' dir='ltr'><strong>PRIMA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1280 3888">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1280 3888">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1280 3888; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1280 3888; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
